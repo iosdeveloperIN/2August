@@ -1,0 +1,16 @@
+PODS:
+  - KYDrawerController (2.0.4)
+
+DEPENDENCIES:
+  - KYDrawerController
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - KYDrawerController
+
+SPEC CHECKSUMS:
+  KYDrawerController: cf5839877c442132123e9d482f458821026defdf
+
+PODFILE CHECKSUM: 8342b972ab76407c767879123c4f92359433ffee
+
+COCOAPODS: 1.5.3
